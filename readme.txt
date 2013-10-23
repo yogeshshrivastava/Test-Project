@@ -1,1 +1,1 @@
-updated Hello Git
+updating with new informatoin 
